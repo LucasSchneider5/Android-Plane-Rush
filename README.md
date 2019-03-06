@@ -1,3 +1,3 @@
 # Plane-Rush
 
-Flappy Bird clone
+Flappy Bird clone made with Unity and C#
