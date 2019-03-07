@@ -1,3 +1,3 @@
 # Plane-Rush
 
-Flappy Bird clone for your android phone, made with Unity and C#
+Flappy Bird clone for your Android phone, made with Unity and C#
